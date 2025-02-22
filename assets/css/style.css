@@ -49,3 +49,8 @@ main {
     object-fit: cover;
     object-position: center;
 }
+
+.col-md-4 {
+    display: flex;
+    align-content: center;
+}
