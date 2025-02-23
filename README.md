@@ -20,10 +20,6 @@ Este é um projeto de estudo desenvolvido como parte do meu aprendizado em **HTM
 - **Elementos Visuais Atrativos**: Uso de componentes e classes do Bootstrap para criar uma interface moderna e funcional.
 - **Layout Estruturado**: Navegação clara e organizada, simulando uma experiência de usuário real.
 
-## 🚀 Demonstração
-
-> Veja o projeto ao vivo: [Coffee Shop - Landing Page](https://danieleksantos.github.io/Projeto-de-Estudo__Landpage-CSS_CoffeeShop-BOOTSTRAP/)
-
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, pude:
@@ -31,5 +27,9 @@ Durante o desenvolvimento deste projeto, pude:
 - Aprimorar a utilizar **grids e layouts responsivos** com Bootstrap.
 - Melhorar minhas habilidades em **design visual** e atenção aos detalhes.
 - Aprender a **organizar código** CSS e HTML de forma clara e escalável.
+
+- ## 🚀 Demonstração
+
+> Veja o projeto online: [Coffee Shop - Landing Page](https://danieleksantos.github.io/Projeto-de-Estudo__Landpage-CSS_CoffeeShop-BOOTSTRAP/)
 
 
